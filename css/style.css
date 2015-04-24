@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+html, body{ background:#666; overflow:hidden;}
+body a{ outline:none;}
+.page{ width:629px; margin:0 auto;}
+.title0, .title1, .title2{ width:629px; height:58px; position:relative;}
+#title a{display:block; width:199px; height:58px; position:absolute; top:0px; }
+.active1{left:0px;}
+.active2{left:160px;}
+.active3{left:318px;}
+.cont{width:563px; height:334px;  padding:44px 30px 0px 36px;}
+.conte{ width:629px; height:366px; padding:12px 0px 0px 0px;}
+.conte .text{width:563px; height:331px; padding:20px 30px 0px 36px; overflow-y:scroll;}
+.cont h2{ color:#e68f4f; font-size:16px; display:block; line-height:35px;}
+.cont p{ color:#f0ddcc; font-size:12px; line-height:25px;}
+.cont .jng{ width:547px; height:279px; padding-left:6px; overflow:hidden; position:relative;}
+.cont .jng img{ display:block;}
+.cont .jng a{ display:block; width:270px; height:70px; float:left; margin-top:21px; text-indent:-9999em;}
+.cont .jng img.zila{ margin-top:20px; margin:20px auto 0px;}
+.cont .jng a.chk{
+    width:140px;
+    height:46px;
+    position:absolute;
+    top:197px;
+    left:382px;
+    margin:0;
+}
